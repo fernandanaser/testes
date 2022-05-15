@@ -1,0 +1,22 @@
+TESTES
+
+TDD - TEST DRIVEN DEVELOPMENT
+  Testes de funcionalidade
+  (unitário)
+  Criar funções
+  Para desenvolvedores
+  Robô para simulação
+  Jasmine, Rest
+
+BDD - BEHAVEN DRIVEN DEVELOPMENT
+  Testes de comportamento
+  Comportamentos do sistema
+  Features - tarefas para implementar
+  Cucumber + selenium, cypress  
+
+PIPELINE
+Teste de APIS, controles TDD e BDD
+
+RSPEC
+
+feature - caso - quando - então
